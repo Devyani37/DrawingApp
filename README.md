@@ -7,7 +7,7 @@ This is a simple console drawing program in Java.
 - Java 11
 - Apache Maven 3
 
-##How it Works
+## How it Works
 
 The program works as follows:
 
@@ -34,7 +34,7 @@ Q               Quit the program.
 
 
 ````
-##Sample I/O
+## Sample I/O
 Below is a sample run of the program. User input is prefixed with enter command:
 
 ````
